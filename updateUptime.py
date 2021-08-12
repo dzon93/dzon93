@@ -28,6 +28,8 @@ def dailyreadme():
             return '{} years, {} months"'.format(years, months, days)
     elif months == 0:
         return '{} years, {} days"'.format(years, days)
+    else:
+        return '{} years, {} months, {} days"'.format(years, months, days)
 
 
 def converttuple(tup):
