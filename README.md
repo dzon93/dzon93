@@ -3,7 +3,7 @@
                `sdmmNNNNmdyyyyhhddddddy+`                 nikola.d.markovic@outlook.com                                       
              `-hMMMMMMMMMMMMMMMNNNNNmdyhs`                ——————                                                              
            `ohmMMMMMMMMMMMMMMMMMMMMMMMMmm.`               OS: "Ubuntu"                                                        
-          `+NMMMMMMMMMMMMNNMMMMMMMMMMMMMMh:`              Uptime: "31 years, 6 months, 2 days"
+          `+NMMMMMMMMMMMMNNMMMMMMMMMMMMMMh:`              Uptime: "31 years, 6 months, 3 days"
           `hNMMMMMMMMNmdhhhhhddmNNMMMMMMMNNh.`            Host: "ITS"                                                         
          `yNMMMMMMMNdysssssssssyyhmNMMMMMMMMN:`           Kernel: "Engineer of Information Systems" 
         `smNMMMMNNdhyssssooooooooshNMMMMMMMMMy`           IDE: "Goland 2021.1.3, PyCharm 2021.1.3"                            
